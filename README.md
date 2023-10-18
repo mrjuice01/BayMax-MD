@@ -84,7 +84,7 @@
 global.Owner = ["263780699988"];
 global.OwnerNumber = ["263780699988"];
 global.ownertag = ["263780699988"];
-global.OwnerName = "Kai";
+global.OwnerName = "Mr Juice";
 global.BotName = "BayMax-MD";
 
 ```
@@ -266,9 +266,9 @@ Comment out/delete /* , */ the code form your Core.js  in your own repo -- [`Cor
 <h1 align="center">  ⭐ Spacial Thanks To ⭐
 </h1>
 
-* [`🎐 FantoX`](https://github.com/mrjuice01)
-* [`🎐 Guru`](https://github.com/Kai0071)
-* [`🎐 Itz Me`](https://github.com/FantoX001)
+* [`🎐Mr Juice`](https://github.com/mrjuice01)
+* [`🎐 Kai`](https://github.com/Kai0071)
+* [`🎐 FantoX`](https://github.com/FantoX001)
 
 <h2 align="center"> ✧ Join My Whatsapp Group For Support ✧
 </h2>
