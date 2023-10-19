@@ -63,7 +63,7 @@
      
 <h2 align="center"> 🍁  Run Repl for Multi Session QR  🍁
 </h2>
-<h2 align="center">  <a href="https://replit.com/@mrjuice01/BayMax-MD-Multi-Session?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="center">  <a href="https://replit.com/@andyaibot/BayMax-Multi-Session"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
