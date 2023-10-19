@@ -1,6 +1,5 @@
 <p align="center">
-   <a href="https://github.com/mrjuice01">
-    <img src="https://graph.org/file/14d7cc038fa3192a8fe43.jpg" width="249">
+   <img src="https://user-images.githubusercontent.com/100421286/191436376-2a5e6281-d24e-4c9b-b99b-673bbc72b445.jpeg" alt="animated" width="540" height="280" />
      
 
       
