@@ -2654,7 +2654,7 @@ Typed *surrender* to surrender and admited defeat`
       case 'ghstalk': case 'githubstalk': case 'github': {
         A17.sendMessage(from, { react: { text: "🔍", key: m.key } })
 
-        if (!q) return reply(`Give me a user name like *${prefix}github Kai0071*`)
+        if (!q) return reply(`Give me a user name like *${prefix}github mrjuice01*`)
 
         gitdata = await githubstalk.githubstalk(`${q}`)
         A17.sendMessage(m.chat, {
@@ -6706,7 +6706,12 @@ _Click the button below to download_`
         A17.sendMessage(from, { react: { text: "✨", key: m.key } })
         const helpmenu = `Hemlo *${pushname}* Dear...!! ${nowtime} ,
   
-Hemlo, I am "BayMax" a WhatsApp bot create and recode By Mr Juice to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+Hemlo, I am "BayMax" a WhatsApp bot created By Mr Juice to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+
+*𝖦ʀᴏᴜᴘ*
+https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji
+*𝖢ʜᴀɴɴᴇʟ*
+https://whatsapp.com/channel/0029VaA2IlCDeOND8GgvKf0U
 
 ╭━━⌬ Date × Time ⌬
 ┃※    *Time* : ${kaitime}
