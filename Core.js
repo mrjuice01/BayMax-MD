@@ -716,7 +716,7 @@ Typed *surrender* to surrender and admited defeat`
   if (smallinput.includes('arigato')|| smallinput.includes('arigatou') || smallinput.includes('thank')) {
     reply (`Mention not ${pushname} 😇. I am a bot afterall.`);
   }
-  */
+ */
 
 
     const responses = {
